@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 <h3>Hi 👋, I'm Ahmed Ali</h3><br>
 <p>I'm a passionate Machine Learning and Software Development Enthusiast, dedicated to solving real-world challenges through technology. My work spans innovative projects in skin disease detection using CNNs, clinical decision support systems CDSS for veterinarians, and intelligent freshness classification systems for agricultural produce.</p>
 <br><br>🚀 What I’m Currently Working On<br>
@@ -32,7 +32,7 @@
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p>
 I turn ideas into reality with a versatile tech stack, building responsive frontends, scalable backends, and efficient databases. With expertise in machine learning, UI/UX design, and cloud solutions, I create intelligent, visually appealing systems. I’m passionate about tackling challenges and delivering impactful, user-focused solutions.
 </p>
@@ -94,10 +94,10 @@ I turn ideas into reality with a versatile tech stack, building responsive front
 
 </details>
 
- ### 📂 Top Repos
+  ## 📂 Top Repos
 <p> <a href="https://github.com/ahmedalisheikh4/Image-classifier"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedalisheikh4&repo=Image-classifier&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Image Classifier"/> </a> <a href="https://github.com/ahmedalisheikh4/WheelDeal"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedalisheikh4&repo=WheelDeal&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="WheelDeal"/> </a> </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmedalisheikh4&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedalisheikh4&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalisheikh4&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
