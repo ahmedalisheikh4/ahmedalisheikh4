@@ -1,5 +1,5 @@
 ## 💫 About Me:
-<h3 align="center">Hi 👋, I'm Ahmed Ali</h3><br>
+<h3 align="center">Hi 👋, I'm Ahmed</h3><br>
 <p align="center">I'm a passionate Machine Learning and Software Development Enthusiast, dedicated to solving real-world challenges through technology. My work spans innovative projects in skin disease detection using CNNs, clinical decision support systems CDSS for veterinarians, and intelligent freshness classification systems for agricultural produce.</p><br>
 🚀 What I’m Currently Working On<br>
 <p>Developing an AI-based skin disease detection system using deep learning.<br>Exploring the potential of TensorFlow for training models on specialized datasets.</p><br>
