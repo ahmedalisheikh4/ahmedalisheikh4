@@ -5,7 +5,7 @@
 <p>Developing an AI-based skin disease detection system using deep learning.<br>Exploring the potential of TensorFlow for training models on specialized datasets.</p><br>
 <h4>🤝 Looking to Collaborate On</h4><br>
 <p>Projects involving image processing, machine learning, or software engineering.<br>Open-source initiatives with a focus on healthcare innovation.</p><br>
-📚 Currently Learning<br>
+<h4>📚 Currently Learning</h4><br>
 <p>Advanced Convolutional Neural Networks (CNNs).<br>Optimizing data pipelines and model deployment for real-world applications.</p><br>
 💡 Fun Fact<br>
 <p>I love working on projects that merge creativity with technology, making a tangible impact on people's lives.</p><br>
