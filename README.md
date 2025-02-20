@@ -7,7 +7,7 @@
 <p>Projects involving image processing, machine learning, or software engineering.<br>Open-source initiatives with a focus on healthcare innovation.</p><br>
 <h4>📚 Currently Learning</h4><br>
 <p>Advanced Convolutional Neural Networks (CNNs).<br>Optimizing data pipelines and model deployment for real-world applications.</p><br>
-💡 Fun Fact<br>
+<h4>💡 Fun Fact</h4><br>
 <p>I love working on projects that merge creativity with technology, making a tangible impact on people's lives.</p><br>
 
 
