@@ -3,11 +3,11 @@
 <p align="center">I'm a passionate Machine Learning and Software Development Enthusiast, dedicated to solving real-world challenges through technology. My work spans innovative projects in skin disease detection using CNNs, clinical decision support systems CDSS for veterinarians, and intelligent freshness classification systems for agricultural produce.</p><br>
 <h4>🚀 What I’m Currently Working On</h4>
 <p>Developing an AI-based skin disease detection system using deep learning.<br>Exploring the potential of TensorFlow for training models on specialized datasets.</p><br>
-<h4>🤝 Looking to Collaborate On</h4><br>
+<h4>🤝 Looking to Collaborate On</h4>
 <p>Projects involving image processing, machine learning, or software engineering.<br>Open-source initiatives with a focus on healthcare innovation.</p><br>
-<h4>📚 Currently Learning</h4><br>
+<h4>📚 Currently Learning</h4>
 <p>Advanced Convolutional Neural Networks (CNNs).<br>Optimizing data pipelines and model deployment for real-world applications.</p><br>
-<h4>💡 Fun Fact</h4><br>
+<h4>💡 Fun Fact</h4>
 <p>I love working on projects that merge creativity with technology, making a tangible impact on people's lives.</p><br>
 
 
