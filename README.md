@@ -13,8 +13,8 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://discord.gg/blackdeath_.">
-    <img src="#" alt="Discord">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://instagram.com/ahmedali.s1044">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
