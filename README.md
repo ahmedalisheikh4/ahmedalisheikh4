@@ -13,7 +13,7 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="#">
+  <a href="https://discord.com/users/773953065945923604">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://instagram.com/ahmedali.s1044">
